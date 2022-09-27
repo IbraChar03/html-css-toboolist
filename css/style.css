@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgba(236, 236, 236)
+   
+}
+#head{
+    height: 100px;
+    width: auto;
+    background-color: white;
+}
+.logo{
+    height: 80px;
+    width: auto;
+    margin-top: 10px;
+    vertical-align: -100%;
+}
+#tobo{
+    font-size: 50px;
+    
+}
+.container{
+    width: 60%;
+    height:auto;
+    background-color: white;
+    margin-left: 200px;
+    margin-top: 50px;
+    
+}
+.pad{
+    padding-top: 30px;
+    padding-left: 50px;
+}
+.button1{
+    height: 40px;
+    width: 90px;
+    border-radius: 5px;
+    
+    
+    
+}
+.button1.n2{
+    background-color: white;
+    color: grey;
+    border-color: lightgrey
+}
+.button1.n1{
+    background-color: lightskyblue;
+    color: white;
+    border-color: lightskyblue;
+    
+}
+#linea{
+    margin-top: 10px;
+    border-top: 1px solid lightgray;
+}
+.task{
+    font-size: 30px;
+}
+.check{
+    height: 20px;
+    width: 20px;
+    margin-left: 5px;
+    margin-top: 5px;
+    vertical-align: -20%;
+    
+}
+.xmark{
+    height: 20px;
+    width: 20px;
+    margin-left: 5px;
+    margin-top: 5px;
+    vertical-align: -20%;
+
+}
+.text{
+    font-size: 20px;
+    margin-left: 5px;
+}
+.textbox{
+    height: 50px;
+    width: 50px;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
+.textbox.color{
+    background-color: #19ABFF
+}
+.textbox.color2{
+    background-color: #9768D9
+}
+.textbox.color3{
+    background-color: #3DCAB5
+}
+.textbox.color4{
+    background-color: #FFAF19
+}
+.textbox.color5{
+    background-color: #E695B5
+}
+.textbox.color6{
+    background-color: #B3E820
+}
+
+.margin{
+    margin-top: 20px;
+}
+.spazio{
+    margin-top: 15px;
+}
+.spaziofine{
+    padding-bottom: 40px;
+}
+
+
